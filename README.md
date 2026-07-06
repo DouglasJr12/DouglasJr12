@@ -35,18 +35,6 @@
 
 ---
 
-# 📊 GitHub
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DouglasJr12&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasJr12&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 👨‍💻 Sobre mim
 
 Profissional de TI com experiência em suporte a sistemas, banco de dados e atendimento ao cliente, atualmente focado no desenvolvimento Back-End com Java e Spring Boot.
