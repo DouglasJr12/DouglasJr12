@@ -1,43 +1,45 @@
-<h1 align="center">Olá, Me chamo Douglas👋</h1>
+<h1 align="center">Olá, eu sou Douglas👋</h1>
 
 <p align="center">
-  <strong>Back-End Developer | Java • Spring Boot • SQL</strong>
+  <strong>Desenvolvedor Back-End | Transformando problemas em soluções através da tecnologia</strong>
 </p>
 
 ---
 
 # 💻 Stacks
 
-### ☕ Linguagens
+### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=js,html,css," />
 </p>
 
 ### 🚀 Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,maven" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,maven" />
+  
 </p>
 
 ### 🗄️ Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
 
 ### 🛠️ Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman" />
 </p>
+
 
 ---
 
 # 👨‍💻 Sobre mim
 
-Profissional de TI com experiência em suporte a sistemas, banco de dados e atendimento ao cliente, atualmente focado no desenvolvimento Back-End com Java e Spring Boot.
+Profissional de TI com experiência em suporte a sistemas e banco de dados. Atualmente focado no desenvolvimento Back-End.
 
 Tenho interesse em construir soluções escaláveis, escrever código limpo e aplicar boas práticas de desenvolvimento para criar aplicações robustas e de fácil manutenção.
 
@@ -45,7 +47,7 @@ Tenho interesse em construir soluções escaláveis, escrever código limpo e ap
 
 # 🎯 Objetivo
 
-Atuar como Desenvolvedor Back-End, contribuindo no desenvolvimento de aplicações, APIs REST e soluções de software, enquanto continuo evoluindo tecnicamente e enfrentando novos desafios.
+Contribuir no desenvolvimento de aplicações Back-End, APIs REST e soluções de software, entregando código de qualidade e evoluindo profissionalmente como desenvolvedor.
 
 ---
 
