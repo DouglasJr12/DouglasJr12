@@ -1,7 +1,7 @@
 # Olá, eu sou Douglas Júnior! 👋
 
 <p align="center">
-  <strong>Desenvolvedor Back-End Java em formação</strong><br>
+  <strong>Desenvolvedor Back-End</strong><br>
   Estudante de Análise e Desenvolvimento de Sistemas • Apaixonado por tecnologia e desenvolvimento de software
 </p>
 
