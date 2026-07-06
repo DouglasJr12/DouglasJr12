@@ -5,15 +5,6 @@
 </p>
 
 ---
-## 📊 Stats
-
-<p align="center">
-  <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=DouglasJr12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-  />
-</p>
----
 
 # 💻 Stacks
 
